@@ -1,0 +1,2 @@
+supplier_id,supplier_name,delivery_id,ordered_date,promised_date,actual_date,ordered_qty,received_qty,defect_qty,returned_qty
+S1,Supplier,D1,2026-01-01,2026-01-10,,100,10,0,0
